@@ -1,0 +1,5 @@
+Scenario,Cement (lb),Water (lb),Fine Agg (lb),Coarse Agg (lb),Total Vol (ft3)
+Scenario 1: NDOT Class 47B,510,279.0,1004.0,1865.0,23.64
+Scenario 2: NDOT Class 47BR,470,260.4,872.0,2034.0,23.56
+Scenario 3: NDOT High Strength,650,276.5,1035.0,1688.0,22.7
+Scenario 4: NDOT 47B-Air,564,253.8,1171.0,1756.0,23.59
