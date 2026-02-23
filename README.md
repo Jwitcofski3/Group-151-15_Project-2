@@ -8,6 +8,8 @@ This repository contains a python based automation tool for the NDOT that calcul
 - [SOW and Gantt Chart](CIVE202_Spring2026_JustinWitcofski_Project2_SOW_GanttChart.pdf)
 - [Mix Design Results](NDOT_Mix_Design_Results.csv)
 
+## User Guide
+
 ### 1. Prerequisites
 Ensure you have a Python environment installed with the following libraries imported:
 - `pandas`
