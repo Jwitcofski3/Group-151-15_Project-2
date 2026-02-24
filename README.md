@@ -4,10 +4,10 @@
 This repository contains a python based automation tool for the NDOT that calculates given concrete mix designs.
 
 ## Repository Contents 
+- [SOW and Gantt Chart](CIVE202_Spring2026_JustinWitcofski_Project2_SOW_GanttChart.pdf) 
 - [Python Code](CIVE202_Spring2026_JustinWitcofski_Project2_Code.ipynb)
-- [SOW and Gantt Chart](CIVE202_Spring2026_JustinWitcofski_Project2_SOW_GanttChart.pdf)
-- [Mix Design Results](NDOT_Mix_Design_Results.csv)
 - [Annotated Code Document](CIVE202_Spring2026_JustinWitcofski_Project2_ACD.pdf)
+- [Mix Design Results](NDOT_Mix_Design_Results.csv)
 - [Written Report](CIVE202_Spring2026_JustinWitcofski_Project2_WrittenReport.pdf)
 
 ## Python Tool User Guide
