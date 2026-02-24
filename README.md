@@ -1,4 +1,4 @@
-# Project-2: Automation of Concrete Mix Design
+# Group 151-15 Project-2: Automation of Concrete Mix Design
 
 ## Project Overview 
 This repository contains a python based automation tool for the NDOT that calculates given concrete mix designs.
