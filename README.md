@@ -8,6 +8,7 @@ This repository contains a python based automation tool for the NDOT that calcul
 - [SOW and Gantt Chart](CIVE202_Spring2026_JustinWitcofski_Project2_SOW_GanttChart.pdf)
 - [Mix Design Results](NDOT_Mix_Design_Results.csv)
 - [Annotated Code Document](CIVE202_Spring2026_JustinWitcofski_Project2_ACD.pdf)
+- [Written Report](CIVE202_Spring2026_JustinWitcofski_Project2_WrittenReport.pdf)
 
 ## Python Tool User Guide
 
